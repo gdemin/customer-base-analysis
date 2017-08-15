@@ -15,7 +15,7 @@ This method starts with a simple story, that if believed, provides a coherent fr
 
 The story goes like this: when a user signs up for a service they're given two coins. The first coin is flipped until they see "heads." The number of times required to see "heads" is the number of months before the user abandons the site. The number of times can vary substantially between customers. The second coin is flipped for each month the user hasn't abandoned the site. Each "heads" represents an active month.
 
-Formally, this could be called a Beta-Geometric/Beta-Binomial (BG/BB) model. Drs. Faber and Hardie present a classic case of theoretically sound statistics substituting for a large quantity of engineering requirement. Much like space and time, engineering and statistics are highly substitutive. When viewed this way and combined they can help solve otherwise challenging problems.
+Formally, this could be called a Beta-Geometric/Beta-Binomial (BG/BB) model. Drs. Faber and Hardie present a classic case of theoretically sound statistics substituting for a large quantity of engineering requirement [by using a spreadsheet for calculations](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.4410). Much like space and time, engineering and statistics are highly substitutive. When viewed this way and combined they can help solve otherwise challenging problems.
 
 Now, I'll build the first coin,
 
